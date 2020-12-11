@@ -2,14 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7b4c8dd4-0ad9-4adc-ae93-436af05c44fd" name="Default Changelist" comment="commit all files v9">
-      <change afterPath="$PROJECT_DIR$/faireveille.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/faireveille.html" beforeDir="false" afterPath="$PROJECT_DIR$/faireveille.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/la5g.html" beforeDir="false" afterPath="$PROJECT_DIR$/la5g.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/netprocess.html" beforeDir="false" afterPath="$PROJECT_DIR$/netprocess.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site-veille.html" beforeDir="false" afterPath="$PROJECT_DIR$/site-veille.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/situation_pro1.html" beforeDir="false" afterPath="$PROJECT_DIR$/situation_pro1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ttt.html" beforeDir="false" afterPath="$PROJECT_DIR$/ttt.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +66,8 @@
       <workItem from="1607671897421" duration="13342000" />
       <workItem from="1607697285401" duration="1823000" />
       <workItem from="1607701109907" duration="817000" />
-      <workItem from="1607711014908" duration="2030000" />
+      <workItem from="1607711014908" duration="2107000" />
+      <workItem from="1607721067393" duration="3864000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des fichier">
       <created>1606487310411</created>
@@ -186,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607701827958</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="commit all files v9">
+      <created>1607713080301</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607713080301</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
