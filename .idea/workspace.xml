@@ -1,16 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b4c8dd4-0ad9-4adc-ae93-436af05c44fd" name="Default Changelist" comment="commit">
-      <change afterPath="$PROJECT_DIR$/scss/custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="7b4c8dd4-0ad9-4adc-ae93-436af05c44fd" name="Default Changelist" comment="commit all files">
+      <change afterPath="$PROJECT_DIR$/situation_pro1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/situation_pro2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ttt.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/la5g.html" beforeDir="false" afterPath="$PROJECT_DIR$/la5g.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/netprocess.html" beforeDir="false" afterPath="$PROJECT_DIR$/netprocess.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/site-veille.html" beforeDir="false" afterPath="$PROJECT_DIR$/site-veille.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +60,10 @@
       <workItem from="1606488197900" duration="3897000" />
       <workItem from="1607120152997" duration="3024000" />
       <workItem from="1607246947815" duration="715000" />
+      <workItem from="1607247780278" duration="74000" />
+      <workItem from="1607252249102" duration="1500000" />
+      <workItem from="1607449788789" duration="2587000" />
+      <workItem from="1607671897421" duration="924000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des fichier">
       <created>1606487310411</created>
@@ -97,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606488742457</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="commit all files">
+      <created>1607247818632</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607247818632</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -118,6 +128,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ajout des fichier" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="commit all files" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all files" />
   </component>
 </project>
