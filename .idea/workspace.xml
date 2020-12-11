@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b4c8dd4-0ad9-4adc-ae93-436af05c44fd" name="Default Changelist" comment="commit all files v6">
+    <list default="true" id="7b4c8dd4-0ad9-4adc-ae93-436af05c44fd" name="Default Changelist" comment="commit all files v7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +58,7 @@
       <workItem from="1607252249102" duration="1500000" />
       <workItem from="1607449788789" duration="2587000" />
       <workItem from="1607671897421" duration="13342000" />
-      <workItem from="1607697285401" duration="1003000" />
+      <workItem from="1607697285401" duration="1570000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des fichier">
       <created>1606487310411</created>
@@ -156,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607697979352</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="commit all files v7">
+      <created>1607698319412</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607698319412</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,6 +192,7 @@
     <MESSAGE value="commit all files v4" />
     <MESSAGE value="commit all files v5" />
     <MESSAGE value="commit all files v6" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit all files v6" />
+    <MESSAGE value="commit all files v7" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all files v7" />
   </component>
 </project>
