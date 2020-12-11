@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7b4c8dd4-0ad9-4adc-ae93-436af05c44fd" name="Default Changelist" comment="commit all files">
-      <change afterPath="$PROJECT_DIR$/situation_pro1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/situation_pro2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ttt.html" afterDir="false" />
+    <list default="true" id="7b4c8dd4-0ad9-4adc-ae93-436af05c44fd" name="Default Changelist" comment="commit all files v2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/carousel.html" beforeDir="false" afterPath="$PROJECT_DIR$/carousel.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/la5g.html" beforeDir="false" afterPath="$PROJECT_DIR$/la5g.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/netprocess.html" beforeDir="false" afterPath="$PROJECT_DIR$/netprocess.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/site-veille.html" beforeDir="false" afterPath="$PROJECT_DIR$/site-veille.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +57,7 @@
       <workItem from="1607247780278" duration="74000" />
       <workItem from="1607252249102" duration="1500000" />
       <workItem from="1607449788789" duration="2587000" />
-      <workItem from="1607671897421" duration="924000" />
+      <workItem from="1607671897421" duration="2028000" />
     </task>
     <task id="LOCAL-00001" summary="ajout des fichier">
       <created>1606487310411</created>
@@ -107,7 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607247818632</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit all files v2">
+      <created>1607672855493</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607672855493</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit all files v2">
+      <created>1607672892008</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607672892008</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +137,7 @@
     <MESSAGE value="ajout des fichier" />
     <MESSAGE value="commit" />
     <MESSAGE value="commit all files" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit all files" />
+    <MESSAGE value="commit all files v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all files v2" />
   </component>
 </project>
